@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dotfiles.git]
+checkout = vcsh clone https://github.com/xpayn/dotfiles.git dotfiles
