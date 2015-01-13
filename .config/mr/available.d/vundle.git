@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/vundle.git]
+checkout = mkdir -p ~/.vim/bundle; git clone https://github.com/gmarik/Vundle.vim $HOME/.vim/bundle/vundle
