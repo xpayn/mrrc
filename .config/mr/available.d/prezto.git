@@ -1,0 +1,2 @@
+[$HOME/.config/zsh/.zprezto]
+checkout = mkdir -p ~/.config/zsh;  git clone --recursive https://github.com/sorin-ionescu/prezto.git ~/.config/zsh/.zprezto"
